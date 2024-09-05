@@ -1,0 +1,87 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewData["Title"] </title>
+    <link rel="stylesheet" href="~/css/bootstrap.min.css">
+    <link rel="stylesheet" href="~/css/animate.css">
+    <link rel="stylesheet" href="~/css/bootsnv.css">
+    <link rel="stylesheet" href="~/css/flaticon.css">
+    <link rel="stylesheet" href="~/css/font-awesome.min.css">
+    <link rel="stylesheet" href="~/css/owl.theme.default.min.css">
+    <link rel="stylesheet" href="~/css/responsive.css">
+    <link rel="stylesheet" href="~/css/site.css">
+    <link rel="stylesheet" href="~/css/style.css" />
+    <!-- Diğer CSS dosyalarınızı buraya ekleyin -->
+</head>
+<body>
+    <header class="top-area">
+        <div class="header-area">
+            <nav class="navbar navbar-default bootsnav navbar-fixed dark no-background">
+                <div class="container">
+                    <div class="navbar-header">
+                        <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar-menu">
+                            <i class="fa fa-bars"></i>
+                        </button>
+                        <a class="navbar-brand" href="~/">
+                            <img src="~/assets/images/about/gdlogo.png" alt="">
+                        </a>
+                    </div>
+                    <div class="collapse navbar-collapse menu-ui-design" id="navbar-menu">
+                        @{
+                            bool isAuthenticated = Context.User.Identity.IsAuthenticated;
+                            bool isOnOturumPage = Context.Request.Path.StartsWithSegments("/Oturum");
+
+                            if (isAuthenticated && isOnOturumPage)
+                            {
+                                <ul class="nav navbar-nav navbar-right" data-in="fadeInDown" data-out="fadeOutUp">
+                                    <li class="smooth-menu"><a href="#about">HAKKIMDA</a></li>
+                                    <li class="smooth-menu"><a href="#education">EĞİTİM</a></li>
+                                    <li class="smooth-menu"><a href="#skills">BECERİLER</a></li>
+                                    <li class="smooth-menu"><a href="#experience">DENEYİMLER</a></li>
+                                    <li class="smooth-menu"><a href="#profiles">PROFİL</a></li>
+                                    <li class="smooth-menu"><a href="#contact">İLETİŞİM</a></li>
+                                    <li class="smooth-menu"><a href="/Oturum/LogOut">ÇIKIŞ YAP</a></li>
+                                </ul>
+                            }
+                            else
+                            {
+                                <ul class="nav navbar-nav navbar-right" data-in="fadeInDown" data-out="fadeOutUp">
+                                    <li class="smooth-menu"><a href="#about">HAKKIMDA</a></li>
+                                    <li class="smooth-menu"><a href="#education">EĞİTİM</a></li>
+                                    <li class="smooth-menu"><a href="#skills">BECERİLER</a></li>
+                                    <li class="smooth-menu"><a href="#experience">DENEYİMLER</a></li>
+                                    <li class="smooth-menu"><a href="#profiles">PROFİL</a></li>
+                                    <li class="smooth-menu"><a href="#contact">İLETİŞİM</a></li>
+                                </ul>
+                            }
+                        }
+
+
+                    </div>
+                </div>
+            </nav>
+        </div>
+    </header>
+
+
+    <div class="container">
+        @RenderBody()
+    </div>
+
+    
+
+<script src="~/js/jquery.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/modernizr/2.8.3/modernizr.min.js"></script>
+<script src="~/js/bootstrap.min.js"></script>
+<script src="~/js/bootsnav.js"></script>
+<script src="~/js/jquery.sticky.js"></script>
+<script src="~/js/progressbar.js"></script>
+<script src="~/js/jquery.appear.js"></script>
+<script src="~/js/owl.carousel.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-easing/1.4.1/jquery.easing.min.js"></script>
+<script src="~/js/custom.js"></script>
+</body>
+</html>
+

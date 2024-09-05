@@ -1,0 +1,745 @@
+{
+  "Files": [
+    {
+      "Id": "/Users/gulperidemiray/Desktop/GD/GD13/GD13/GD13/obj/Debug/net7.0/scopedcss/projectbundle/GD13.bundle.scp.css",
+      "PackagePath": "staticwebassets/GD13.bundle.scp.css"
+    },
+    {
+      "Id": "/Users/gulperidemiray/Desktop/GD/GD13/GD13/GD13/wwwroot/bootstrap/LICENSE",
+      "PackagePath": "staticwebassets/bootstrap"
+    },
+    {
+      "Id": "/Users/gulperidemiray/Desktop/GD/GD13/GD13/GD13/wwwroot/bootstrap/dist/css/bootstrap-grid.css",
+      "PackagePath": "staticwebassets/bootstrap/dist/css/bootstrap-grid.css"
+    },
+    {
+      "Id": "/Users/gulperidemiray/Desktop/GD/GD13/GD13/GD13/wwwroot/bootstrap/dist/css/bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets/bootstrap/dist/css/bootstrap-grid.css.map"
+    },
+    {
+      "Id": "/Users/gulperidemiray/Desktop/GD/GD13/GD13/GD13/wwwroot/bootstrap/dist/css/bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets/bootstrap/dist/css/bootstrap-grid.min.css"
+    },
+    {
+      "Id": "/Users/gulperidemiray/Desktop/GD/GD13/GD13/GD13/wwwroot/bootstrap/dist/css/bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets/bootstrap/dist/css/bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "/Users/gulperidemiray/Desktop/GD/GD13/GD13/GD13/wwwroot/bootstrap/dist/css/bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets/bootstrap/dist/css/bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "/Users/gulperidemiray/Desktop/GD/GD13/GD13/GD13/wwwroot/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets/bootstrap/dist/css/bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "/Users/gulperidemiray/Desktop/GD/GD13/GD13/GD13/wwwroot/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets/bootstrap/dist/css/bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "/Users/gulperidemiray/Desktop/GD/GD13/GD13/GD13/wwwroot/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "/Users/gulperidemiray/Desktop/GD/GD13/GD13/GD13/wwwroot/bootstrap/dist/css/bootstrap-reboot.css",
+      "PackagePath": "staticwebassets/bootstrap/dist/css/bootstrap-reboot.css"
+    },
+    {
+      "Id": "/Users/gulperidemiray/Desktop/GD/GD13/GD13/GD13/wwwroot/bootstrap/dist/css/bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets/bootstrap/dist/css/bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "/Users/gulperidemiray/Desktop/GD/GD13/GD13/GD13/wwwroot/bootstrap/dist/css/bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets/bootstrap/dist/css/bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "/Users/gulperidemiray/Desktop/GD/GD13/GD13/GD13/wwwroot/bootstrap/dist/css/bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets/bootstrap/dist/css/bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "/Users/gulperidemiray/Desktop/GD/GD13/GD13/GD13/wwwroot/bootstrap/dist/css/bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets/bootstrap/dist/css/bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "/Users/gulperidemiray/Desktop/GD/GD13/GD13/GD13/wwwroot/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets/bootstrap/dist/css/bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "/Users/gulperidemiray/Desktop/GD/GD13/GD13/GD13/wwwroot/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets/bootstrap/dist/css/bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "/Users/gulperidemiray/Desktop/GD/GD13/GD13/GD13/wwwroot/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "/Users/gulperidemiray/Desktop/GD/GD13/GD13/GD13/wwwroot/bootstrap/dist/css/bootstrap-utilities.css",
+      "PackagePath": "staticwebassets/bootstrap/dist/css/bootstrap-utilities.css"
+    },
+    {
+      "Id": "/Users/gulperidemiray/Desktop/GD/GD13/GD13/GD13/wwwroot/bootstrap/dist/css/bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets/bootstrap/dist/css/bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "/Users/gulperidemiray/Desktop/GD/GD13/GD13/GD13/wwwroot/bootstrap/dist/css/bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets/bootstrap/dist/css/bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "/Users/gulperidemiray/Desktop/GD/GD13/GD13/GD13/wwwroot/bootstrap/dist/css/bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets/bootstrap/dist/css/bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "/Users/gulperidemiray/Desktop/GD/GD13/GD13/GD13/wwwroot/bootstrap/dist/css/bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets/bootstrap/dist/css/bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "/Users/gulperidemiray/Desktop/GD/GD13/GD13/GD13/wwwroot/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets/bootstrap/dist/css/bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "/Users/gulperidemiray/Desktop/GD/GD13/GD13/GD13/wwwroot/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets/bootstrap/dist/css/bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "/Users/gulperidemiray/Desktop/GD/GD13/GD13/GD13/wwwroot/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "/Users/gulperidemiray/Desktop/GD/GD13/GD13/GD13/wwwroot/bootstrap/dist/css/bootstrap.css",
+      "PackagePath": "staticwebassets/bootstrap/dist/css/bootstrap.css"
+    },
+    {
+      "Id": "/Users/gulperidemiray/Desktop/GD/GD13/GD13/GD13/wwwroot/bootstrap/dist/css/bootstrap.css.map",
+      "PackagePath": "staticwebassets/bootstrap/dist/css/bootstrap.css.map"
+    },
+    {
+      "Id": "/Users/gulperidemiray/Desktop/GD/GD13/GD13/GD13/wwwroot/bootstrap/dist/css/bootstrap.min.css",
+      "PackagePath": "staticwebassets/bootstrap/dist/css/bootstrap.min.css"
+    },
+    {
+      "Id": "/Users/gulperidemiray/Desktop/GD/GD13/GD13/GD13/wwwroot/bootstrap/dist/css/bootstrap.min.css.map",
+      "PackagePath": "staticwebassets/bootstrap/dist/css/bootstrap.min.css.map"
+    },
+    {
+      "Id": "/Users/gulperidemiray/Desktop/GD/GD13/GD13/GD13/wwwroot/bootstrap/dist/css/bootstrap.rtl.css",
+      "PackagePath": "staticwebassets/bootstrap/dist/css/bootstrap.rtl.css"
+    },
+    {
+      "Id": "/Users/gulperidemiray/Desktop/GD/GD13/GD13/GD13/wwwroot/bootstrap/dist/css/bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets/bootstrap/dist/css/bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "/Users/gulperidemiray/Desktop/GD/GD13/GD13/GD13/wwwroot/bootstrap/dist/css/bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets/bootstrap/dist/css/bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "/Users/gulperidemiray/Desktop/GD/GD13/GD13/GD13/wwwroot/bootstrap/dist/css/bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets/bootstrap/dist/css/bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "/Users/gulperidemiray/Desktop/GD/GD13/GD13/GD13/wwwroot/bootstrap/dist/js/bootstrap.bundle.js",
+      "PackagePath": "staticwebassets/bootstrap/dist/js/bootstrap.bundle.js"
+    },
+    {
+      "Id": "/Users/gulperidemiray/Desktop/GD/GD13/GD13/GD13/wwwroot/bootstrap/dist/js/bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets/bootstrap/dist/js/bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "/Users/gulperidemiray/Desktop/GD/GD13/GD13/GD13/wwwroot/bootstrap/dist/js/bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets/bootstrap/dist/js/bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "/Users/gulperidemiray/Desktop/GD/GD13/GD13/GD13/wwwroot/bootstrap/dist/js/bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets/bootstrap/dist/js/bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "/Users/gulperidemiray/Desktop/GD/GD13/GD13/GD13/wwwroot/bootstrap/dist/js/bootstrap.esm.js",
+      "PackagePath": "staticwebassets/bootstrap/dist/js/bootstrap.esm.js"
+    },
+    {
+      "Id": "/Users/gulperidemiray/Desktop/GD/GD13/GD13/GD13/wwwroot/bootstrap/dist/js/bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets/bootstrap/dist/js/bootstrap.esm.js.map"
+    },
+    {
+      "Id": "/Users/gulperidemiray/Desktop/GD/GD13/GD13/GD13/wwwroot/bootstrap/dist/js/bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets/bootstrap/dist/js/bootstrap.esm.min.js"
+    },
+    {
+      "Id": "/Users/gulperidemiray/Desktop/GD/GD13/GD13/GD13/wwwroot/bootstrap/dist/js/bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets/bootstrap/dist/js/bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "/Users/gulperidemiray/Desktop/GD/GD13/GD13/GD13/wwwroot/bootstrap/dist/js/bootstrap.js",
+      "PackagePath": "staticwebassets/bootstrap/dist/js/bootstrap.js"
+    },
+    {
+      "Id": "/Users/gulperidemiray/Desktop/GD/GD13/GD13/GD13/wwwroot/bootstrap/dist/js/bootstrap.js.map",
+      "PackagePath": "staticwebassets/bootstrap/dist/js/bootstrap.js.map"
+    },
+    {
+      "Id": "/Users/gulperidemiray/Desktop/GD/GD13/GD13/GD13/wwwroot/bootstrap/dist/js/bootstrap.min.js",
+      "PackagePath": "staticwebassets/bootstrap/dist/js/bootstrap.min.js"
+    },
+    {
+      "Id": "/Users/gulperidemiray/Desktop/GD/GD13/GD13/GD13/wwwroot/bootstrap/dist/js/bootstrap.min.js.map",
+      "PackagePath": "staticwebassets/bootstrap/dist/js/bootstrap.min.js.map"
+    },
+    {
+      "Id": "/Users/gulperidemiray/Desktop/GD/GD13/GD13/GD13/wwwroot/css/animate.css",
+      "PackagePath": "staticwebassets/css/animate.css"
+    },
+    {
+      "Id": "/Users/gulperidemiray/Desktop/GD/GD13/GD13/GD13/wwwroot/css/bootsnav.css",
+      "PackagePath": "staticwebassets/css/bootsnav.css"
+    },
+    {
+      "Id": "/Users/gulperidemiray/Desktop/GD/GD13/GD13/GD13/wwwroot/css/bootstrap.min.css",
+      "PackagePath": "staticwebassets/css/bootstrap.min.css"
+    },
+    {
+      "Id": "/Users/gulperidemiray/Desktop/GD/GD13/GD13/GD13/wwwroot/css/flaticon.css",
+      "PackagePath": "staticwebassets/css/flaticon.css"
+    },
+    {
+      "Id": "/Users/gulperidemiray/Desktop/GD/GD13/GD13/GD13/wwwroot/css/font-awesome.min.css",
+      "PackagePath": "staticwebassets/css/font-awesome.min.css"
+    },
+    {
+      "Id": "/Users/gulperidemiray/Desktop/GD/GD13/GD13/GD13/wwwroot/css/owl.carousel.min.css",
+      "PackagePath": "staticwebassets/css/owl.carousel.min.css"
+    },
+    {
+      "Id": "/Users/gulperidemiray/Desktop/GD/GD13/GD13/GD13/wwwroot/css/owl.theme.default.min.css",
+      "PackagePath": "staticwebassets/css/owl.theme.default.min.css"
+    },
+    {
+      "Id": "/Users/gulperidemiray/Desktop/GD/GD13/GD13/GD13/wwwroot/css/responsive.css",
+      "PackagePath": "staticwebassets/css/responsive.css"
+    },
+    {
+      "Id": "/Users/gulperidemiray/Desktop/GD/GD13/GD13/GD13/wwwroot/css/site.css",
+      "PackagePath": "staticwebassets/css/site.css"
+    },
+    {
+      "Id": "/Users/gulperidemiray/Desktop/GD/GD13/GD13/GD13/wwwroot/css/style.css",
+      "PackagePath": "staticwebassets/css/style.css"
+    },
+    {
+      "Id": "/Users/gulperidemiray/Desktop/GD/GD13/GD13/GD13/wwwroot/download/browney.txt",
+      "PackagePath": "staticwebassets/download/browney.txt"
+    },
+    {
+      "Id": "/Users/gulperidemiray/Desktop/GD/GD13/GD13/GD13/wwwroot/favicon.ico",
+      "PackagePath": "staticwebassets/favicon.ico"
+    },
+    {
+      "Id": "/Users/gulperidemiray/Desktop/GD/GD13/GD13/GD13/wwwroot/fonts/Flaticon.eot",
+      "PackagePath": "staticwebassets/fonts/Flaticon.eot"
+    },
+    {
+      "Id": "/Users/gulperidemiray/Desktop/GD/GD13/GD13/GD13/wwwroot/fonts/Flaticon.svg",
+      "PackagePath": "staticwebassets/fonts/Flaticon.svg"
+    },
+    {
+      "Id": "/Users/gulperidemiray/Desktop/GD/GD13/GD13/GD13/wwwroot/fonts/Flaticon.ttf",
+      "PackagePath": "staticwebassets/fonts/Flaticon.ttf"
+    },
+    {
+      "Id": "/Users/gulperidemiray/Desktop/GD/GD13/GD13/GD13/wwwroot/fonts/Flaticon.woff",
+      "PackagePath": "staticwebassets/fonts/Flaticon.woff"
+    },
+    {
+      "Id": "/Users/gulperidemiray/Desktop/GD/GD13/GD13/GD13/wwwroot/fonts/FontAwesome.otf",
+      "PackagePath": "staticwebassets/fonts/FontAwesome.otf"
+    },
+    {
+      "Id": "/Users/gulperidemiray/Desktop/GD/GD13/GD13/GD13/wwwroot/fonts/Linearicons-Free.eot",
+      "PackagePath": "staticwebassets/fonts/Linearicons-Free.eot"
+    },
+    {
+      "Id": "/Users/gulperidemiray/Desktop/GD/GD13/GD13/GD13/wwwroot/fonts/Linearicons-Free.svg",
+      "PackagePath": "staticwebassets/fonts/Linearicons-Free.svg"
+    },
+    {
+      "Id": "/Users/gulperidemiray/Desktop/GD/GD13/GD13/GD13/wwwroot/fonts/Linearicons-Free.ttf",
+      "PackagePath": "staticwebassets/fonts/Linearicons-Free.ttf"
+    },
+    {
+      "Id": "/Users/gulperidemiray/Desktop/GD/GD13/GD13/GD13/wwwroot/fonts/Linearicons-Free.woff",
+      "PackagePath": "staticwebassets/fonts/Linearicons-Free.woff"
+    },
+    {
+      "Id": "/Users/gulperidemiray/Desktop/GD/GD13/GD13/GD13/wwwroot/fonts/Linearicons-Free.woff2",
+      "PackagePath": "staticwebassets/fonts/Linearicons-Free.woff2"
+    },
+    {
+      "Id": "/Users/gulperidemiray/Desktop/GD/GD13/GD13/GD13/wwwroot/fonts/fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets/fonts/fontawesome-webfont.eot"
+    },
+    {
+      "Id": "/Users/gulperidemiray/Desktop/GD/GD13/GD13/GD13/wwwroot/fonts/fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets/fonts/fontawesome-webfont.svg"
+    },
+    {
+      "Id": "/Users/gulperidemiray/Desktop/GD/GD13/GD13/GD13/wwwroot/fonts/fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets/fonts/fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "/Users/gulperidemiray/Desktop/GD/GD13/GD13/GD13/wwwroot/fonts/fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets/fonts/fontawesome-webfont.woff"
+    },
+    {
+      "Id": "/Users/gulperidemiray/Desktop/GD/GD13/GD13/GD13/wwwroot/fonts/fontawesome-webfont.woff2",
+      "PackagePath": "staticwebassets/fonts/fontawesome-webfont.woff2"
+    },
+    {
+      "Id": "/Users/gulperidemiray/Desktop/GD/GD13/GD13/GD13/wwwroot/fonts/glyphicons-halflings-regular.eot",
+      "PackagePath": "staticwebassets/fonts/glyphicons-halflings-regular.eot"
+    },
+    {
+      "Id": "/Users/gulperidemiray/Desktop/GD/GD13/GD13/GD13/wwwroot/fonts/glyphicons-halflings-regular.svg",
+      "PackagePath": "staticwebassets/fonts/glyphicons-halflings-regular.svg"
+    },
+    {
+      "Id": "/Users/gulperidemiray/Desktop/GD/GD13/GD13/GD13/wwwroot/fonts/glyphicons-halflings-regular.ttf",
+      "PackagePath": "staticwebassets/fonts/glyphicons-halflings-regular.ttf"
+    },
+    {
+      "Id": "/Users/gulperidemiray/Desktop/GD/GD13/GD13/GD13/wwwroot/fonts/glyphicons-halflings-regular.woff",
+      "PackagePath": "staticwebassets/fonts/glyphicons-halflings-regular.woff"
+    },
+    {
+      "Id": "/Users/gulperidemiray/Desktop/GD/GD13/GD13/GD13/wwwroot/fonts/glyphicons-halflings-regular.woff2",
+      "PackagePath": "staticwebassets/fonts/glyphicons-halflings-regular.woff2"
+    },
+    {
+      "Id": "/Users/gulperidemiray/Desktop/GD/GD13/GD13/GD13/wwwroot/images/about/gdlogo.png",
+      "PackagePath": "staticwebassets/images/about/gdlogo.png"
+    },
+    {
+      "Id": "/Users/gulperidemiray/Desktop/GD/GD13/GD13/GD13/wwwroot/images/about/kapak.jpeg",
+      "PackagePath": "staticwebassets/images/about/kapak.jpeg"
+    },
+    {
+      "Id": "/Users/gulperidemiray/Desktop/GD/GD13/GD13/GD13/wwwroot/images/about/linkedin.png",
+      "PackagePath": "staticwebassets/images/about/linkedin.png"
+    },
+    {
+      "Id": "/Users/gulperidemiray/Desktop/GD/GD13/GD13/GD13/wwwroot/images/about/old.jpg",
+      "PackagePath": "staticwebassets/images/about/old.jpg"
+    },
+    {
+      "Id": "/Users/gulperidemiray/Desktop/GD/GD13/GD13/GD13/wwwroot/images/about/profile_image.jpg",
+      "PackagePath": "staticwebassets/images/about/profile_image.jpg"
+    },
+    {
+      "Id": "/Users/gulperidemiray/Desktop/GD/GD13/GD13/GD13/wwwroot/images/about/welcome-banner.jpg",
+      "PackagePath": "staticwebassets/images/about/welcome-banner.jpg"
+    },
+    {
+      "Id": "/Users/gulperidemiray/Desktop/GD/GD13/GD13/GD13/wwwroot/images/about/yan.jpeg",
+      "PackagePath": "staticwebassets/images/about/yan.jpeg"
+    },
+    {
+      "Id": "/Users/gulperidemiray/Desktop/GD/GD13/GD13/GD13/wwwroot/images/clients/c1.png",
+      "PackagePath": "staticwebassets/images/clients/c1.png"
+    },
+    {
+      "Id": "/Users/gulperidemiray/Desktop/GD/GD13/GD13/GD13/wwwroot/images/clients/c2.png",
+      "PackagePath": "staticwebassets/images/clients/c2.png"
+    },
+    {
+      "Id": "/Users/gulperidemiray/Desktop/GD/GD13/GD13/GD13/wwwroot/images/clients/c3.png",
+      "PackagePath": "staticwebassets/images/clients/c3.png"
+    },
+    {
+      "Id": "/Users/gulperidemiray/Desktop/GD/GD13/GD13/GD13/wwwroot/images/clients/c4.png",
+      "PackagePath": "staticwebassets/images/clients/c4.png"
+    },
+    {
+      "Id": "/Users/gulperidemiray/Desktop/GD/GD13/GD13/GD13/wwwroot/images/clients/c5.png",
+      "PackagePath": "staticwebassets/images/clients/c5.png"
+    },
+    {
+      "Id": "/Users/gulperidemiray/Desktop/GD/GD13/GD13/GD13/wwwroot/images/clients/c6.png",
+      "PackagePath": "staticwebassets/images/clients/c6.png"
+    },
+    {
+      "Id": "/Users/gulperidemiray/Desktop/GD/GD13/GD13/GD13/wwwroot/images/clients/c7.png",
+      "PackagePath": "staticwebassets/images/clients/c7.png"
+    },
+    {
+      "Id": "/Users/gulperidemiray/Desktop/GD/GD13/GD13/GD13/wwwroot/images/portfolio/p1.jpg",
+      "PackagePath": "staticwebassets/images/portfolio/p1.jpg"
+    },
+    {
+      "Id": "/Users/gulperidemiray/Desktop/GD/GD13/GD13/GD13/wwwroot/images/portfolio/p2.jpg",
+      "PackagePath": "staticwebassets/images/portfolio/p2.jpg"
+    },
+    {
+      "Id": "/Users/gulperidemiray/Desktop/GD/GD13/GD13/GD13/wwwroot/images/portfolio/p3.jpg",
+      "PackagePath": "staticwebassets/images/portfolio/p3.jpg"
+    },
+    {
+      "Id": "/Users/gulperidemiray/Desktop/GD/GD13/GD13/GD13/wwwroot/images/portfolio/p4.jpg",
+      "PackagePath": "staticwebassets/images/portfolio/p4.jpg"
+    },
+    {
+      "Id": "/Users/gulperidemiray/Desktop/GD/GD13/GD13/GD13/wwwroot/images/portfolio/p5.jpg",
+      "PackagePath": "staticwebassets/images/portfolio/p5.jpg"
+    },
+    {
+      "Id": "/Users/gulperidemiray/Desktop/GD/GD13/GD13/GD13/wwwroot/jquery-validation-unobtrusive/LICENSE.txt",
+      "PackagePath": "staticwebassets/jquery-validation-unobtrusive/LICENSE.txt"
+    },
+    {
+      "Id": "/Users/gulperidemiray/Desktop/GD/GD13/GD13/GD13/wwwroot/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "/Users/gulperidemiray/Desktop/GD/GD13/GD13/GD13/wwwroot/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "/Users/gulperidemiray/Desktop/GD/GD13/GD13/GD13/wwwroot/jquery-validation/LICENSE.md",
+      "PackagePath": "staticwebassets/jquery-validation/LICENSE.md"
+    },
+    {
+      "Id": "/Users/gulperidemiray/Desktop/GD/GD13/GD13/GD13/wwwroot/jquery-validation/dist/additional-methods.js",
+      "PackagePath": "staticwebassets/jquery-validation/dist/additional-methods.js"
+    },
+    {
+      "Id": "/Users/gulperidemiray/Desktop/GD/GD13/GD13/GD13/wwwroot/jquery-validation/dist/additional-methods.min.js",
+      "PackagePath": "staticwebassets/jquery-validation/dist/additional-methods.min.js"
+    },
+    {
+      "Id": "/Users/gulperidemiray/Desktop/GD/GD13/GD13/GD13/wwwroot/jquery-validation/dist/jquery.validate.js",
+      "PackagePath": "staticwebassets/jquery-validation/dist/jquery.validate.js"
+    },
+    {
+      "Id": "/Users/gulperidemiray/Desktop/GD/GD13/GD13/GD13/wwwroot/jquery-validation/dist/jquery.validate.min.js",
+      "PackagePath": "staticwebassets/jquery-validation/dist/jquery.validate.min.js"
+    },
+    {
+      "Id": "/Users/gulperidemiray/Desktop/GD/GD13/GD13/GD13/wwwroot/jquery/LICENSE.txt",
+      "PackagePath": "staticwebassets/jquery/LICENSE.txt"
+    },
+    {
+      "Id": "/Users/gulperidemiray/Desktop/GD/GD13/GD13/GD13/wwwroot/jquery/dist/jquery.js",
+      "PackagePath": "staticwebassets/jquery/dist/jquery.js"
+    },
+    {
+      "Id": "/Users/gulperidemiray/Desktop/GD/GD13/GD13/GD13/wwwroot/jquery/dist/jquery.min.js",
+      "PackagePath": "staticwebassets/jquery/dist/jquery.min.js"
+    },
+    {
+      "Id": "/Users/gulperidemiray/Desktop/GD/GD13/GD13/GD13/wwwroot/jquery/dist/jquery.min.map",
+      "PackagePath": "staticwebassets/jquery/dist/jquery.min.map"
+    },
+    {
+      "Id": "/Users/gulperidemiray/Desktop/GD/GD13/GD13/GD13/wwwroot/js/JavaScript.js",
+      "PackagePath": "staticwebassets/js/JavaScript.js"
+    },
+    {
+      "Id": "/Users/gulperidemiray/Desktop/GD/GD13/GD13/GD13/wwwroot/js/ajax.js",
+      "PackagePath": "staticwebassets/js/ajax.js"
+    },
+    {
+      "Id": "/Users/gulperidemiray/Desktop/GD/GD13/GD13/GD13/wwwroot/js/bootsnav.js",
+      "PackagePath": "staticwebassets/js/bootsnav.js"
+    },
+    {
+      "Id": "/Users/gulperidemiray/Desktop/GD/GD13/GD13/GD13/wwwroot/js/bootstrap.min.js",
+      "PackagePath": "staticwebassets/js/bootstrap.min.js"
+    },
+    {
+      "Id": "/Users/gulperidemiray/Desktop/GD/GD13/GD13/GD13/wwwroot/js/custom.js",
+      "PackagePath": "staticwebassets/js/custom.js"
+    },
+    {
+      "Id": "/Users/gulperidemiray/Desktop/GD/GD13/GD13/GD13/wwwroot/js/favicon.ico",
+      "PackagePath": "staticwebassets/js/favicon.ico"
+    },
+    {
+      "Id": "/Users/gulperidemiray/Desktop/GD/GD13/GD13/GD13/wwwroot/js/jquery.appear.js",
+      "PackagePath": "staticwebassets/js/jquery.appear.js"
+    },
+    {
+      "Id": "/Users/gulperidemiray/Desktop/GD/GD13/GD13/GD13/wwwroot/js/jquery.js",
+      "PackagePath": "staticwebassets/js/jquery.js"
+    },
+    {
+      "Id": "/Users/gulperidemiray/Desktop/GD/GD13/GD13/GD13/wwwroot/js/jquery.sticky.js",
+      "PackagePath": "staticwebassets/js/jquery.sticky.js"
+    },
+    {
+      "Id": "/Users/gulperidemiray/Desktop/GD/GD13/GD13/GD13/wwwroot/js/owl.carousel.min.js",
+      "PackagePath": "staticwebassets/js/owl.carousel.min.js"
+    },
+    {
+      "Id": "/Users/gulperidemiray/Desktop/GD/GD13/GD13/GD13/wwwroot/js/progressbar.js",
+      "PackagePath": "staticwebassets/js/progressbar.js"
+    },
+    {
+      "Id": "/Users/gulperidemiray/Desktop/GD/GD13/GD13/GD13/wwwroot/js/scripts.js",
+      "PackagePath": "staticwebassets/js/scripts.js"
+    },
+    {
+      "Id": "/Users/gulperidemiray/Desktop/GD/GD13/GD13/GD13/wwwroot/js/site.js",
+      "PackagePath": "staticwebassets/js/site.js"
+    },
+    {
+      "Id": "/Users/gulperidemiray/Desktop/GD/GD13/GD13/GD13/wwwroot/lib/bootstrap/LICENSE",
+      "PackagePath": "staticwebassets/lib/bootstrap"
+    },
+    {
+      "Id": "/Users/gulperidemiray/Desktop/GD/GD13/GD13/GD13/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.css"
+    },
+    {
+      "Id": "/Users/gulperidemiray/Desktop/GD/GD13/GD13/GD13/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.css.map"
+    },
+    {
+      "Id": "/Users/gulperidemiray/Desktop/GD/GD13/GD13/GD13/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.min.css"
+    },
+    {
+      "Id": "/Users/gulperidemiray/Desktop/GD/GD13/GD13/GD13/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "/Users/gulperidemiray/Desktop/GD/GD13/GD13/GD13/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "/Users/gulperidemiray/Desktop/GD/GD13/GD13/GD13/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "/Users/gulperidemiray/Desktop/GD/GD13/GD13/GD13/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "/Users/gulperidemiray/Desktop/GD/GD13/GD13/GD13/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "/Users/gulperidemiray/Desktop/GD/GD13/GD13/GD13/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.css"
+    },
+    {
+      "Id": "/Users/gulperidemiray/Desktop/GD/GD13/GD13/GD13/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "/Users/gulperidemiray/Desktop/GD/GD13/GD13/GD13/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "/Users/gulperidemiray/Desktop/GD/GD13/GD13/GD13/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "/Users/gulperidemiray/Desktop/GD/GD13/GD13/GD13/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "/Users/gulperidemiray/Desktop/GD/GD13/GD13/GD13/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "/Users/gulperidemiray/Desktop/GD/GD13/GD13/GD13/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "/Users/gulperidemiray/Desktop/GD/GD13/GD13/GD13/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "/Users/gulperidemiray/Desktop/GD/GD13/GD13/GD13/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.css"
+    },
+    {
+      "Id": "/Users/gulperidemiray/Desktop/GD/GD13/GD13/GD13/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "/Users/gulperidemiray/Desktop/GD/GD13/GD13/GD13/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "/Users/gulperidemiray/Desktop/GD/GD13/GD13/GD13/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "/Users/gulperidemiray/Desktop/GD/GD13/GD13/GD13/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "/Users/gulperidemiray/Desktop/GD/GD13/GD13/GD13/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "/Users/gulperidemiray/Desktop/GD/GD13/GD13/GD13/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "/Users/gulperidemiray/Desktop/GD/GD13/GD13/GD13/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "/Users/gulperidemiray/Desktop/GD/GD13/GD13/GD13/wwwroot/lib/bootstrap/dist/css/bootstrap.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.css"
+    },
+    {
+      "Id": "/Users/gulperidemiray/Desktop/GD/GD13/GD13/GD13/wwwroot/lib/bootstrap/dist/css/bootstrap.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.css.map"
+    },
+    {
+      "Id": "/Users/gulperidemiray/Desktop/GD/GD13/GD13/GD13/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.min.css"
+    },
+    {
+      "Id": "/Users/gulperidemiray/Desktop/GD/GD13/GD13/GD13/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.min.css.map"
+    },
+    {
+      "Id": "/Users/gulperidemiray/Desktop/GD/GD13/GD13/GD13/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.css"
+    },
+    {
+      "Id": "/Users/gulperidemiray/Desktop/GD/GD13/GD13/GD13/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "/Users/gulperidemiray/Desktop/GD/GD13/GD13/GD13/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "/Users/gulperidemiray/Desktop/GD/GD13/GD13/GD13/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "/Users/gulperidemiray/Desktop/GD/GD13/GD13/GD13/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.js"
+    },
+    {
+      "Id": "/Users/gulperidemiray/Desktop/GD/GD13/GD13/GD13/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "/Users/gulperidemiray/Desktop/GD/GD13/GD13/GD13/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "/Users/gulperidemiray/Desktop/GD/GD13/GD13/GD13/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "/Users/gulperidemiray/Desktop/GD/GD13/GD13/GD13/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.js"
+    },
+    {
+      "Id": "/Users/gulperidemiray/Desktop/GD/GD13/GD13/GD13/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.js.map"
+    },
+    {
+      "Id": "/Users/gulperidemiray/Desktop/GD/GD13/GD13/GD13/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.min.js"
+    },
+    {
+      "Id": "/Users/gulperidemiray/Desktop/GD/GD13/GD13/GD13/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "/Users/gulperidemiray/Desktop/GD/GD13/GD13/GD13/wwwroot/lib/bootstrap/dist/js/bootstrap.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.js"
+    },
+    {
+      "Id": "/Users/gulperidemiray/Desktop/GD/GD13/GD13/GD13/wwwroot/lib/bootstrap/dist/js/bootstrap.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.js.map"
+    },
+    {
+      "Id": "/Users/gulperidemiray/Desktop/GD/GD13/GD13/GD13/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.min.js"
+    },
+    {
+      "Id": "/Users/gulperidemiray/Desktop/GD/GD13/GD13/GD13/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.min.js.map"
+    },
+    {
+      "Id": "/Users/gulperidemiray/Desktop/GD/GD13/GD13/GD13/wwwroot/lib/jquery-validation-unobtrusive/LICENSE.txt",
+      "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/LICENSE.txt"
+    },
+    {
+      "Id": "/Users/gulperidemiray/Desktop/GD/GD13/GD13/GD13/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "/Users/gulperidemiray/Desktop/GD/GD13/GD13/GD13/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "/Users/gulperidemiray/Desktop/GD/GD13/GD13/GD13/wwwroot/lib/jquery-validation/LICENSE.md",
+      "PackagePath": "staticwebassets/lib/jquery-validation/LICENSE.md"
+    },
+    {
+      "Id": "/Users/gulperidemiray/Desktop/GD/GD13/GD13/GD13/wwwroot/lib/jquery-validation/dist/additional-methods.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/additional-methods.js"
+    },
+    {
+      "Id": "/Users/gulperidemiray/Desktop/GD/GD13/GD13/GD13/wwwroot/lib/jquery-validation/dist/additional-methods.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/additional-methods.min.js"
+    },
+    {
+      "Id": "/Users/gulperidemiray/Desktop/GD/GD13/GD13/GD13/wwwroot/lib/jquery-validation/dist/jquery.validate.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/jquery.validate.js"
+    },
+    {
+      "Id": "/Users/gulperidemiray/Desktop/GD/GD13/GD13/GD13/wwwroot/lib/jquery-validation/dist/jquery.validate.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/jquery.validate.min.js"
+    },
+    {
+      "Id": "/Users/gulperidemiray/Desktop/GD/GD13/GD13/GD13/wwwroot/lib/jquery/LICENSE.txt",
+      "PackagePath": "staticwebassets/lib/jquery/LICENSE.txt"
+    },
+    {
+      "Id": "/Users/gulperidemiray/Desktop/GD/GD13/GD13/GD13/wwwroot/lib/jquery/dist/jquery.js",
+      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.js"
+    },
+    {
+      "Id": "/Users/gulperidemiray/Desktop/GD/GD13/GD13/GD13/wwwroot/lib/jquery/dist/jquery.min.js",
+      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.min.js"
+    },
+    {
+      "Id": "/Users/gulperidemiray/Desktop/GD/GD13/GD13/GD13/wwwroot/lib/jquery/dist/jquery.min.map",
+      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.min.map"
+    },
+    {
+      "Id": "/Users/gulperidemiray/Desktop/GD/GD13/GD13/GD13/wwwroot/logo/favicon.png",
+      "PackagePath": "staticwebassets/logo/favicon.png"
+    },
+    {
+      "Id": "/Users/gulperidemiray/Desktop/GD/GD13/GD13/GD13/wwwroot/logo/logo.png",
+      "PackagePath": "staticwebassets/logo/logo.png"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.GD13.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.build.GD13.props",
+      "PackagePath": "build\\GD13.props"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.GD13.props",
+      "PackagePath": "buildMultiTargeting\\GD13.props"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.GD13.props",
+      "PackagePath": "buildTransitive\\GD13.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

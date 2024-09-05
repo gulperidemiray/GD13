@@ -1,0 +1,44 @@
+﻿<Properties StartupConfiguration="{121073B1-EF97-499D-9D4B-FF0742010724}|https">
+  <MonoDevelop.Ide.Workbench ActiveDocument="GD13/Views/Home/Index.cshtml">
+    <Files>
+      <File FileName="GD13/Views/Home/Index.cshtml" Line="454" Column="27" IsPinned="True" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="GD13" expanded="True">
+            <Node name="DTO" expanded="True">
+              <Node name="Dependencies" expanded="True" />
+              <Node name="Reponse" expanded="True" />
+              <Node name="Request" expanded="True" />
+            </Node>
+            <Node name="GD13" expanded="True">
+              <Node name="Dependencies" expanded="True" />
+              <Node name="Controllers" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="Properties" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="Home" expanded="True">
+                  <Node name="Index.cshtml" selected="True" />
+                </Node>
+                <Node name="Shared" expanded="True" />
+              </Node>
+            </Node>
+            <Node name="Islem" expanded="True" />
+            <Node name="VeriKatmani" expanded="True">
+              <Node name="Contexts" expanded="True" />
+              <Node name="Entities" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.GD13 PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>
